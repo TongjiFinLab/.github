@@ -1,5 +1,4 @@
-![banner](img/banner.jpg)
-
+![banner](https://github.com/TongjiFinLab/.github/blob/main/img/banner.jpg)
 ---
 **欢迎来到“书生·济世”数字金融平台！包括金融评测基准和金融大模型！**
 ---
