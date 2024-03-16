@@ -3,7 +3,7 @@
 **欢迎来到“书生·济世”数字金融平台！包括金融评测基准和金融大模型！**
 ---
 
-“书生•济世”数字金融平台由同济大学网络金融安全国家级(省部共建)协同创新中心与上海人工智能实验室联合团队推出，包含了金融评测基准（[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark)）与金融大模型（[CFGPT](https://github.com/TongjiFinLab/CFGPT)）。金融评测基准CFBenchmark的提出旨在建立一套全面的评价体系，以评估大模型在金融自然语言处理、金融场景计算、金融分析与解读以及金融合规与安全检查等多项关键任务中的表现。与此同时，为了支持评测基准的应用，联合团队还同步推出了专门针对中文金融领域优化的大模型CFGPT，助力大模型在金融行业更加广泛的应用。
+“书生•济世”数字金融平台由同济大学网络金融安全国家级(省部共建)协同创新中心与上海人工智能实验室联合团队推出，包含了金融评测基准（[CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark)）与金融大模型（[CFGPT](https://github.com/TongjiFinLab/CFGPT)）。金融评测基准CFBenchmark的提出旨在建立一套全面的评价体系，以评估大模型在金融自然语言处理、金融场景计算、金融分析与解读以及金融合规与安全检查等多项关键任务中的表现。与此同时，为了支持评测基准的应用，联合团队还同步推出了专门针对中文金融领域优化的大模型CFGPT，助力大模型在金融场景中的实用性与安全性。
 
 ## 中文金融评测基准 ([CFBenchmark](https://github.com/TongjiFinLab/CFBenchmark))
 <a href='https://arxiv.org/abs/2311.05812'><img src='https://img.shields.io/badge/Paper-ArXiv-C71585'></a> <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-CFBenchmark-red'></a> 
